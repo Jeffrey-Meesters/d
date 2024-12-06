@@ -3,7 +3,7 @@ import { useRouter } from 'vue-router';
 import Button from 'primevue/button';
 const router = useRouter();
 
-import { useSignUpStore } from "@/store/useSignUpStore";
+import { useSignUpStore } from "../store/useSignUpStore";
 const signUpStore = useSignUpStore()
 </script>
 

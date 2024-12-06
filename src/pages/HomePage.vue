@@ -1,7 +1,7 @@
 <script lang="ts" setup>
   import Button from 'primevue/button';
   import { useRouter } from 'vue-router';
-  import myImg from '@/assets/dreamy-3.png';
+  import myImg from '../assets/dreamy-3.png';
   const router = useRouter();
 </script>
 

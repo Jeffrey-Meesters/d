@@ -1,9 +1,9 @@
 <script setup lang="ts">
 import { Button } from 'primevue';
-import LoginPanel from '@/components/LoginPanel.vue';
+import LoginPanel from './components/LoginPanel.vue'
 
-import logo_letters from "@/assets/DREAMERZdo.svg"
-import logo from "@/assets/logo_white_text.svg"
+import logo_letters from "./assets/DREAMERZdo.svg"
+import logo from "./assets/logo_white_text.svg"
 </script>
 
 <template>

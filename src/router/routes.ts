@@ -1,5 +1,5 @@
-import HomePage from '@/pages/HomePage.vue'
-import LearnMorePage from '@/pages/LearnMorePage.vue'
+import HomePage from '../pages/HomePage.vue'
+import LearnMorePage from '../pages/LearnMorePage.vue'
 
 export const routes = [
   { 

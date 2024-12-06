@@ -1,9 +1,8 @@
-<script setup>
-import { computed } from "vue";
+<script setup lang="ts">
 import { Dialog, InputText, Button } from "primevue";
-import logo from "@/assets/logo_white_text.svg"
+import logo from "../assets/logo_white_text.svg"
 
-import { useSignUpStore } from "@/store/useSignUpStore";
+import { useSignUpStore } from "../store/useSignUpStore";
 const signUpStore = useSignUpStore()
 </script>
 
